@@ -1,0 +1,7 @@
+public class Hibernate{
+
+    public void hibernate(){
+
+
+    }
+}
