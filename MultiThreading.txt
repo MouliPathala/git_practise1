@@ -1,4 +1,4 @@
-ublic class MultiThreading{
+public class MultiThreading{
 
     public void thread()
    
